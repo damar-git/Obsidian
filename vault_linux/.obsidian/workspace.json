@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "1abd8802758c3781",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6d446ad6987555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1b8f094f4d5fb7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Categories/1 - File commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dbd4052c558b600",
+    "type": "split",
+    "children": [
+      {
+        "id": "417b1e1f7fe5a432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c600d4ab8e37d22a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d16eef4a5d355956",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b04137f955e7b1ad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "e2fc6716bd543c0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fcbae27e5a594dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da24498a7a57faf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Categories/1 - File commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8ee753642749b80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Categories/1 - File commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "830fd41efd8a9a7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3485b51508149ba9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Categories/1 - File commands.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "d1b8f094f4d5fb7c",
+  "lastOpenFiles": [
+    "1 - Linux commands handbook.md",
+    "2 - Index.md",
+    "Categories/6 - Text editor.md",
+    "Categories/5 - Command pipeline.md",
+    "Categories/4 - Chaining commands.md",
+    "Categories/3 - Reading commands.md",
+    "Categories/2 - Directory commands.md",
+    "Categories/1 - File commands.md"
+  ]
+}
